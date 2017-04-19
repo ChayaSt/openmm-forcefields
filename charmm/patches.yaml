@@ -167,6 +167,8 @@ residues:
     - CT2   # Amidated C-terminus
     - CT3   # N-Methylamide C-terminus
     - SERD  # Deprotonate SER
+    - SP1   # monoanionic phosphoserine
+    - SP2   # dianionic phosphoserine
   THR:
     - NTER  # Standard N-terminus
     - CTER  # Standard C-terminus
@@ -176,6 +178,8 @@ residues:
     - CT1   # Methylated C-terminus
     - CT2   # Amidated C-terminus
     - CT3   # N-Methylamide C-terminus
+    - THP1  # monoanionic phosphothreonine
+    - THP2  # dianionic phosphothreonine
   TRP:
     - NTER  # Standard N-terminus
     - CTER  # Standard C-terminus
@@ -194,6 +198,9 @@ residues:
     - CT1   # Methylated C-terminus
     - CT2   # Amidated C-terminus
     - CT3   # N-Methylamide C-terminus
+    - TP1   # monoanionic phosphotyrosine
+    - TP1A  # monoanionic phenol-phosphate
+    - TP2   # dianionic phosphotyrosine
   VAL:
     - NTER  # Standard N-terminus
     - CTER  # Standard C-terminus
