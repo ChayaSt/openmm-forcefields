@@ -1,0 +1,224 @@
+residues:
+  ALA:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  ARG:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  ASN:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  ASP:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - ASPP  # Protonated aspartic acid, proton on OD2
+  CYS:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - CYSD  # Deprotonate CYS
+    - DISU_1 # Disulfide bond
+    - DISU_2 # Disulfide bond
+  GLN:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  GLU:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - GLUP  # protonated glutamic acid, proton on oe2
+  GLY:
+    - GLYP  # Glycine N-terminus
+    - CTER  # Standard C-terminus
+    - NGNE  # Glycine Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  HSD:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - HS2   # Move proton from ND1 to NE2
+  HSE:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  HSP:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  ILE:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  LEU:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  LYS:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - LSN   # Neutral lysine
+  MET:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  PHE:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  PRO:
+    - PROP  # Proline N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminus
+    - ACP   # Proline Acetylated N-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  SER:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+    - SERD  # Deprotonate SER
+  THR:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  TRP:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  TYR:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  VAL:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+  CYM:
+    - NTER  # Standard N-terminus
+    - CTER  # Standard C-terminus
+    - NNEU  # Neutral N-terminus
+    - CNEU  # Protonated (neutral) C-terminu
+    - ACE   # Acetylated N-terminus
+    - CT1   # Methylated C-terminus
+    - CT2   # Amidated C-terminus
+    - CT3   # N-Methylamide C-terminus
+
+
+
+
+
+
+
+
+
+
