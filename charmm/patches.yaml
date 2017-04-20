@@ -220,6 +220,230 @@ residues:
     - CT2   # Amidated C-terminus
     - CT3   # N-Methylamide C-terminus
 
+patches:
+  NTER:  # Standard N-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  CTER:  # Standard C-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - GLY
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - PRO
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  NNEU:  # Neutral N-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - PRO
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  CNEU:  # Protonated (neutral) C-terminu
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - GLY
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - PRO
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  ACE:   # Acetylated N-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - GLY
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  CT1:   # Methylated C-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  CT2:   # Amidated C-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - GLY
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - PRO
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  CT3:   # N-Methylamide C-terminus
+    - ALA
+    - ARG
+    - ASN
+    - ASP
+    - CYS
+    - GLN
+    - GLU
+    - GLY
+    - HSD
+    - HSE
+    - HSP
+    - ILE
+    - LEU
+    - LYS
+    - MET
+    - PHE
+    - PRO
+    - SER
+    - THR
+    - TRP
+    - TYR
+    - VAL
+    - CYM
+  GLYP:  # Glycine N-terminus
+    - GLY
+  NGNE:  # Glycine Neutral N-terminus
+    - GLY
+  PROP:  # Proline N-terminus
+    - PRO
+  ACP:   # Proline Acetylated N-terminus
+    - PRO
+  ASPP: # Protonated aspartic acid, proton on OD2
+    - ASP
+  CYSD:  # Deprotonate CYS
+    - CYS
+  DISU:  # Disulfide bond
+    - 1:CYS
+    - 2:CYS
+  GLUP:  # protonated glutamic acid, proton on oe2
+    - GLU
+  HS2:   # Move proton from ND1 to NE2
+    - HSD
+  LSN:   # Neutral lysine
+    - LYS
+  SERD:  # Deprotonate SER
+    - SER
+  SP1:   # monoanionic phosphoserine
+    - SER
+  SP2:   # dianionic phosphoserine
+    - SER
+  THP1:  # monoanionic phosphothreonine
+    - THR
+  THP2:  # dianionic phosphothreonine
+    - THR
+  TP1:   # monoanionic phosphotyrosine
+    - TYR
+  TP1A:  # monoanionic phenol-phosphate
+    - TYR
+  TP2:   # dianionic phosphotyrosine
+    - TYR
 
 
 
